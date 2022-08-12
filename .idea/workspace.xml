@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3805bcdf-a495-4e25-b4ec-a3f2cc183ca3" name="Changes" comment=":-)">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BeatBox.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/BeatBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/InstrumentDescription.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/listeners/MyClearListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/listeners/MyDownTempoListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/listeners/MyLoadListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/listeners/MySendListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/listeners/MyStartListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/listeners/MyStopListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/listeners/MyUpTempoListener.java" afterDir="false" />
-    </list>
+    <list default="true" id="3805bcdf-a495-4e25-b4ec-a3f2cc183ca3" name="Changes" comment=":-)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,8 +64,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660302271908</updated>
-      <workItem from="1660302273684" duration="3100000" />
+      <workItem from="1660302273684" duration="3320000" />
     </task>
+    <task id="LOCAL-00001" summary=":-)">
+      <created>1660308517329</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660308517329</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
